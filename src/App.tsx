@@ -18,16 +18,16 @@ export default function Page() {
       "Pretty please",
       "With a chocolate rice cake on top",
       "What about a matcha frostie",
-      "PLEASE POOKIE",
-      "But :*(",
+      "PLEASEEEE",
+      "But :<",
       "I am going to die",
       "Yep im dead",
-      "ok ur talking to nathan's ghost",
-      "please babe",
+      "ok ur talking to luna's ghost",
+      "please silly",
       ":((((",
       "PRETTY PLEASE",
       "Estoy muerto",
-      "No :(",
+      "Nuhuh :(",
     ];
 
     return phrases[Math.min(noCount, phrases.length - 1)];
